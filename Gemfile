@@ -67,6 +67,7 @@ group :development do
   gem 'htmlbeautifier'
   gem 'pry-rails'
   gem 'rack-canonical-host'
+  gem 'rails_db'
   gem 'rails-erd'
   gem 'rollbar'
   gem 'rufo'
