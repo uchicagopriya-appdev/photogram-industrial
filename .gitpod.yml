@@ -3,6 +3,7 @@ image: jelaniwoods/appdev2022-photogram-industrial-tmp2
 tasks:
   - before: |
       bin/setup
+      .vscode/manage_extensions
 ports:
   - port: 3000
     onOpen: open-preview
