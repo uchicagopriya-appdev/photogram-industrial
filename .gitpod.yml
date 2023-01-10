@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev2022-photogram-industrial-tmp2
+image: jelaniwoods/appdev2023-photogram-industrial-tmp
 
 tasks:
   - before: |
